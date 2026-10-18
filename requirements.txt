@@ -1,0 +1,4 @@
+gspread
+beautifulsoup4
+requests
+python-dateutil
